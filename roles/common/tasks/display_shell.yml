@@ -1,0 +1,5 @@
+- name: "Determine Shell cmd run"
+  shell: ls -la
+  register: shell_result
+- debug:
+    var: shell_result.stdout_lines
