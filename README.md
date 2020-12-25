@@ -81,4 +81,5 @@ Tags use "OR" logic, not "AND". If any of your tags match the item will run. You
 
 Special tags: always, never. Meaning "always" run or "never" run unless explicitly told to do so. Special tag keywords: tagged, untagged and all. By default we run playbooks at -tags all
 
-[Reference](https://github.com/bradmorg/ansible-labs)
+[Reference on the Labs](https://github.com/bradmorg/ansible-labs)
+[Reference to the Basics, Cheat Sheet](https://opensource.com/article/20/11/ansible-cheat-sheet)
