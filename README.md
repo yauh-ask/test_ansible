@@ -12,6 +12,7 @@
 `sudo apt-get install ansible`
 
  #### Create a SSH key and copy to all servers:
+ ##### where the password is `vagrant`
 
 `ssh-keygen`
 `ssh-copy-id localhost`
